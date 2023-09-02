@@ -34,6 +34,6 @@
 <script>
 
 export default {
-    name: 'Register'
+    name: 'RegisterForm'
 }
 </script>

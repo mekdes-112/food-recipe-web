@@ -1,7 +1,9 @@
 <template>
   <div id="app">
-    <Nav />
-    <Register />  
+    <NavBar />
+    <router-view />
+    
+  
     
     
   
@@ -10,14 +12,14 @@
 </template>
 
 <script>
-import Nav from './components/Nav.vue'
-import Register from './components/Register.vue'
+import NavBar from './components/Nav.vue'
+
 
 export default {
   name: 'App',
   components: {
-    Nav,
-    Register,
+    NavBar,
+    
   },
   
   };
