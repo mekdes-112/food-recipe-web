@@ -6,7 +6,7 @@
 
     <div class="form-group">
         <label for="" style="color: #7C838A; margin-bottom: 8px; font-family: 'Poppins', sans-serif; font-size: 15px;">Email</label>
-        <input type="email" class="form-control" placeholder="Enter you'r Email here" style="background-color: rgba(176, 186, 195, 0.2); border: none; margin-bottom: 8px;width: 280px;font-family: 'Poppins', sans-serif; font-size: 14px;"/>
+        <input type="email" class="form-control" placeholder="Enter you'r Email here" style="background-color: rgba(176, 186, 195, 0.2); border: none; margin-bottom: 8px;width: 280px;font-family: 'Poppins', sans-serif; font-size: 14px;font-weight: lighter;"/>
     </div>
 
     <div class="form-group">
